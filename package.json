@@ -1,0 +1,19 @@
+{
+  "name": "devops-sec-examples",
+  "version": "1.0.0",
+  "description": "Aplicacao para demonstracao do sonarqube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PIA-Champions/devops-sec-examples.git"
+  },
+  "author": "David Sobrinho, Lucas Santana, Artur, Matheus Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PIA-Champions/devops-sec-examples/issues"
+  },
+  "homepage": "https://github.com/PIA-Champions/devops-sec-examples#readme"
+}
